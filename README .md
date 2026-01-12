@@ -52,6 +52,3 @@ The Details Dashboard streamlines access to critical loan data, facilitating inf
 #### Details Dashboard
 ![Details Dashboard](/Output/Details.png)
 
-### Contributing
-
-Contributions to enhance the analysis or add new features are welcome! If you have any suggestions, ideas, or bug fixes, feel free to open an issue or submit a pull request.
